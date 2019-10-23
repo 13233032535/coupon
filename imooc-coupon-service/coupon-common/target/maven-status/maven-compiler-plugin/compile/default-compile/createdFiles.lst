@@ -1,0 +1,3 @@
+com/imooc/coupon/conf/WebConfiguration.class
+com/imooc/coupon/conf/JacksonConfig.class
+com/imooc/coupon/vo/CommonResponse.class
